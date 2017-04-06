@@ -1,18 +1,18 @@
 /*
 Colour scheme:
-    Dark (Background) - #0E0B16
+    Dark (Background) - #251B40
     Light (Text) - #E7DFDD
-    Lilac (Accents) - #A239CA
+    Violet (Accents) - #8E40D2
     Indigo (Features) - #4717F6
 */
 
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #0E0B16;
+    background-color: #251B40;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,19 +23,20 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #A239CA;
+    color: #8E40D2;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
     color: #E7DFDD;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
+    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
     color: #E7DFDD;
 }
 footer {
