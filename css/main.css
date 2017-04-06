@@ -1,8 +1,15 @@
-/* Temporary CSS taken from  http://jmcglone.com/guides/github-pages/ */
+/*
+Colour scheme:
+    Dark (Background) - #0E0B16
+    Light (Text) - #E7DFDD
+    Lilac (Accents) - #A239CA
+    Indigo (Features) - #4717F6
+*/
 
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #0E0B16;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -16,7 +23,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #A239CA;
 }
 a:hover {
     text-decoration: underline;
@@ -24,11 +31,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #E7DFDD;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #E7DFDD;
 }
 footer {
     border-top: 1px solid #d5d5d5;
