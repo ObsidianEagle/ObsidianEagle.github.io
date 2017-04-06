@@ -52,3 +52,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+span {
+    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
+    color: #E7DFDD;
+}
