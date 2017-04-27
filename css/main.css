@@ -39,6 +39,12 @@ h1 {
     color: #5ca6e0;
 }
 
+h2 {
+    font-size: 2.5em;
+    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
+    color: #EF4723;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
