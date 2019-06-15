@@ -27,12 +27,13 @@ body {
 
 .item p {
   font-size: 2em;
+  text-align: center;
 }
 
 .active:hover {
   opacity: 1;
 }
 
-a:link a:visited a:active  {
+a:link, a:visited, a:active  {
   color: white;
 }
