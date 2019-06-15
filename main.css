@@ -22,6 +22,7 @@ body {
 
 .item img {
   height: 200px;
+  width: 200px;
 }
 
 .item p {
@@ -30,4 +31,8 @@ body {
 
 .active:hover {
   opacity: 1;
+}
+
+a:link a:visited a:active  {
+  color: white;
 }
