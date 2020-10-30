@@ -23,12 +23,12 @@ body {
 }
 
 .item img {
-  height: 60vh;
-  width: 60vh;
+  height: 40vh;
+  width: 40vh;
 }
 
 .item p {
-  font-size: 4em;
+  font-size: 3em;
   text-align: center;
   margin-top: 0px;
 }
