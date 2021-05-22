@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h2 {
+  margin: 0;
+}
+
+li {
+  margin: 1em auto;
+}
+
+.covid-rules {
+  background-color: palevioletred;
+  padding: 2em;
+  border-radius: 2em;
+  margin-top: 2em;
+}
+
+.covid-rules h2 {
+  text-align: center;
+  margin: 0;
+}
+
+.covid-rules h3 {
+  text-align: center;
+}
+
+.drink-counter {
+  margin-top: 1em;
+  font-size: 3em;
+  display: flex;
+}
+
+.drink-counter div {
+  margin: auto 1em;
+  user-select: none;
+  cursor: pointer;
+}
+
+#drink-counter-value {
+  cursor: text;
+  user-select: auto;
+}
